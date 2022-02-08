@@ -1,0 +1,1 @@
+To Completely foo is to foo across all [[Realms]]. [[Virtualization]] can only represent Complete entities, and cannot create them within its virtualized system, though the Completeness of the [[Realm]] itself can generate Complete entities based on the Realm's internal dynamics. However, the entity generated will not behave exactly as the Realm-local entity does.
